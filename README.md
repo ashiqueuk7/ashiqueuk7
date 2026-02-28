@@ -11,9 +11,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashique7-bit" alt="ashique7-bit" /></a> </p>
 
-- 🔭 I’m currently working on **BlockSafe: Decentralized File Storage**
 
-- 🌱 I’m currently learning **Blockchain,Flask,Cyber security**
+- 🌱 I’m currently learning **Blockchain,Cyber security**
 
 - 📫 How to reach me **ashiqueuk123nyd@gmail.com**
 
